@@ -1,11 +1,7 @@
 This is apple file
-File name is apple.
 //dev 
 1.This is developer branch code.
 //save changes after stash
 
 //master
 clean all code in master
-
-//main
-add this line in main
