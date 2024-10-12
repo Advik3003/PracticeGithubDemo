@@ -1,18 +1,11 @@
 This is apple file
 File name is apple.
-<<<<<<< HEAD
 //dev 
 1.This is developer branch code.
 //save changes after stash
-=======
-<<<<<<< Updated upstream
-//master
-2.add code in master
-=======
-//dev 
-1.This is developer branch code.
 
-2.After commit some changes in the code.
-3.git stash 3, add all files in stage before going to save stash, Otherwise you will not get changes after "git stash pop or particular stash"
->>>>>>> Stashed changes
->>>>>>> master
+//master
+clean all code in master
+
+//main
+add this line in main
