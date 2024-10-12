@@ -1,19 +1,7 @@
-This is orange
-
-It's file name is orange also.
-//dev
-It's file name is orange also.
+This is orange file
 //dev
 1. This is developer branch code
 
 //master
 clean all code in master
-
-//main
-dasfs]
-sdfsdf
-sfsff
-sfads
-
-end of main//
 
