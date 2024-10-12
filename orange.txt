@@ -1,0 +1,18 @@
+This is orange
+<<<<<<< HEAD
+It's file name is orange also.
+//dev
+1. This is developer branch code
+//save changes after stash
+=======
+<<<<<<< Updated upstream
+It's file name is orange also.
+=======
+It's file name is orange also.
+//dev
+1. This is developer branch code
+
+2. After commit some changes in dev branch
+3.git stash 3, add all files in stage before going to save stash, Otherwise you will not get changes after "git stash pop or particular stash"
+>>>>>>> Stashed changes
+>>>>>>> master
